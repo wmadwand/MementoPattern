@@ -60,9 +60,9 @@ namespace Memento
         }
     }
 
-    class Program
+    class Program2
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             Hero hero = new Hero();
             hero.Shoot(); // делаем выстрел, осталось 9 патронов
